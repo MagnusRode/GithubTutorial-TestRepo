@@ -24,9 +24,9 @@ Hier bitte alle Fragen notieren.... Danke!
 
 ## Magnus ToDo
 
-- *ok* dieses Repo forken
-- *ok* eigenen Fork clonen (lokal auf den Rechner bringen)
-- *ok* etwas ändern
-- committen
-- zum eigenen Fork pushen
-- auf Github einen PR vom Fork ins "upstream" Repo erstellen
+- **ok** dieses Repo forken
+- **ok** eigenen Fork clonen (lokal auf den Rechner bringen)
+- **ok** etwas ändern
+- **ok** committen
+- **ok** zum eigenen Fork pushen
+- **ok** auf Github einen PR vom Fork ins "upstream" Repo erstellen
